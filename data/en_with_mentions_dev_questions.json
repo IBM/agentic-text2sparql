@@ -1,0 +1,2293 @@
+[
+  {
+    "q_id": 0,
+    "question": "Who played Eleven in Stranger Things?",
+    "mentions": [
+      {
+        "string": "Eleven",
+        "entity": "Q27955792"
+      },
+      {
+        "string": "Stranger Things",
+        "entity": "Q19798734"
+      },
+      {
+        "string": "played",
+        "entity": "Q222749",
+        "property": "P175",
+        "inverse": true
+      },
+      {
+        "string": "played",
+        "entity": "Q222749",
+        "property": "P161",
+        "inverse": true
+      }
+    ]
+  },
+  {
+    "q_id": 1,
+    "question": "What is the largest country in Africa by population?",
+    "mentions": [
+      {
+        "string": "Africa",
+        "entity": "Q15",
+        "property": "P30",
+        "mention": "implicit"
+      },
+      {
+        "string": "country",
+        "entity": "Q3624078"
+      },
+      {
+        "string": "country",
+        "entity": "Q6256"
+      },
+      {
+        "string": "population",
+        "entity": "Q33829",
+        "property": "P1082"
+      }
+    ]
+  },
+  {
+    "q_id": 2,
+    "question": "What is the largest country in Africa by area?",
+    "mentions": [
+      {
+        "string": "Africa",
+        "entity": "Q15",
+        "property": "P30",
+        "mention": "implicit"
+      },
+      {
+        "string": "country",
+        "entity": "Q3624078"
+      },
+      {
+        "string": "country",
+        "entity": "Q6256"
+      },
+      {
+        "string": "area",
+        "entity": "Q11500",
+        "property": "P2046"
+      }
+    ]
+  },
+  {
+    "q_id": 3,
+    "question": "What is the capital of Ireland?",
+    "mentions": [
+      {
+        "string": "Ireland",
+        "entity": "Q27"
+      },
+      {
+        "string": "capital",
+        "entity": "Q5119",
+        "property": "P36"
+      }
+    ]
+  },
+  {
+    "q_id": 4,
+    "question": "Who wrote The Hitchhiker's Guide to the Galaxy?",
+    "mentions": [
+      {
+        "string": "The Hitchhiker's Guide to the Galaxy",
+        "entity": "Q3107329"
+      },
+      {
+        "string": "wrote",
+        "entity": "Q2250012",
+        "property": "P50",
+        "inverse": true
+      },
+      {
+        "string": "wrote",
+        "entity": "Q36180",
+        "property": "P50",
+        "inverse": true
+      }
+    ]
+  },
+  {
+    "q_id": 5,
+    "question": "Is Stan Lee alive?",
+    "mentions": [
+      {
+        "string": "Stan Lee",
+        "entity": "Q181900"
+      },
+      {
+        "string": "alive",
+        "entity": "Q21075715",
+        "property": "P570",
+        "quantifier": "not exists"
+      },
+      {
+        "string": "alive",
+        "entity": "Q21075715",
+        "property": "P20",
+        "quantifier": "not exists"
+      }
+    ]
+  },
+  {
+    "q_id": 6,
+    "question": "Is Stan Lee dead?",
+    "mentions": [
+      {
+        "string": "Stan Lee",
+        "entity": "Q181900"
+      },
+      {
+        "string": "dead",
+        "entity": "Q4",
+        "property": "P570",
+        "quantifier": "exists"
+      },
+      {
+        "string": "dead",
+        "entity": "Q4",
+        "property": "P20",
+        "quantifier": "exists"
+      }
+    ]
+  },
+  {
+    "q_id": 7,
+    "question": "When did Stan Lee die?",
+    "mentions": [
+      {
+        "string": "Stan Lee",
+        "entity": "Q181900"
+      },
+      {
+        "string": "die",
+        "entity": "Q4"
+      }
+    ]
+  },
+  {
+    "q_id": 8,
+    "question": "What age was Stan Lee when he died?",
+    "mentions": [
+      {
+        "string": "Stan Lee",
+        "entity": "Q181900"
+      },
+      {
+        "string": "age",
+        "entity": "Q185836"
+      },
+      {
+        "string": "die",
+        "entity": "Q4",
+        "property": "P570"
+      },
+      {
+        "string": "died",
+        "entity": "Q4",
+        "property": "P570"
+      }
+    ]
+  },
+  {
+    "q_id": 9,
+    "question": "What age is Stan Lee?",
+    "mentions": [
+      {
+        "string": "Stan Lee",
+        "entity": "Q181900"
+      },
+      {
+        "string": "age",
+        "entity": "Q185836"
+      }
+    ]
+  },
+  {
+    "q_id": 10,
+    "question": "What age would Stan Lee be if he were still alive?",
+    "mentions": [
+      {
+        "string": "Stan Lee",
+        "entity": "Q181900"
+      },
+      {
+        "string": "age",
+        "entity": "Q185836"
+      },
+      {
+        "string": "alive",
+        "entity": "Q21075715"
+      }
+    ]
+  },
+  {
+    "q_id": 11,
+    "question": "Who is the president of Poland?",
+    "mentions": [
+      {
+        "string": "president of Poland",
+        "entity": "Q1054799"
+      },
+      {
+        "string": "Poland",
+        "entity": "Q36"
+      },
+      {
+        "string": "president",
+        "entity": "Q30461",
+        "property": "P35",
+        "mention": "subproperty"
+      }
+    ]
+  },
+  {
+    "q_id": 12,
+    "question": "Does Poland have a president?",
+    "mentions": [
+      {
+        "string": "Poland",
+        "entity": "Q36"
+      },
+      {
+        "string": "president",
+        "entity": "Q30461",
+        "property": "P1906",
+        "mention": "implicit"
+      }
+    ]
+  },
+  {
+    "q_id": 13,
+    "question": "Who is the head of state of Poland?",
+    "mentions": [
+      {
+        "string": "Poland",
+        "entity": "Q36"
+      },
+      {
+        "string": "head of state",
+        "entity": "Q48352",
+        "property": "P35"
+      }
+    ]
+  },
+  {
+    "q_id": 14,
+    "question": "How many Turing Awards have people from Austria won?",
+    "mentions": [
+      {
+        "string": "Turing Awards",
+        "entity": "Q185667"
+      },
+      {
+        "string": "Austria",
+        "entity": "Q40"
+      },
+      {
+        "string": "people",
+        "entity": "Q5"
+      },
+      {
+        "string": "won",
+        "entity": "Q50000",
+        "property": "P166"
+      },
+      {
+        "string": "Awards",
+        "entity": "Q618779",
+        "property": "P166"
+      },
+      {
+        "string": "Turing",
+        "entity": "Q7251"
+      }
+    ]
+  },
+  {
+    "q_id": 15,
+    "question": "Which countries have won a FIFA World Cup?",
+    "mentions": [
+      {
+        "string": "FIFA World Cup",
+        "entity": "Q19317"
+      },
+      {
+        "string": "countries",
+        "entity": "Q6256"
+      },
+      {
+        "string": "countries",
+        "entity": "Q3624078"
+      },
+      {
+        "string": "FIFA",
+        "entity": "Q253414"
+      },
+      {
+        "string": "won",
+        "entity": "Q50000",
+        "property": "P1346"
+      }
+    ]
+  },
+  {
+    "q_id": 16,
+    "question": "Which countries have won a Cricket World Cup?",
+    "mentions": [
+      {
+        "string": "countries",
+        "entity": "Q6256"
+      },
+      {
+        "string": "countries",
+        "entity": "Q3624078"
+      },
+      {
+        "string": "Cricket World Cup",
+        "entity": "Q192202"
+      },
+      {
+        "string": "Cricket",
+        "entity": "Q5375"
+      },
+      {
+        "string": "won",
+        "entity": "Q50000",
+        "property": "P1346"
+      }
+    ]
+  },
+  {
+    "q_id": 17,
+    "question": "Which countries have won a Rugby World Cup?",
+    "mentions": [
+      {
+        "string": "countries",
+        "entity": "Q6256"
+      },
+      {
+        "string": "countries",
+        "entity": "Q3624078"
+      },
+      {
+        "string": "Rugby World Cup",
+        "entity": "Q16640"
+      },
+      {
+        "string": "Rugby",
+        "entity": "Q5378"
+      },
+      {
+        "string": "won",
+        "entity": "Q50000",
+        "property": "P1346",
+        "inverse": true
+      }
+    ]
+  },
+  {
+    "q_id": 18,
+    "question": "What is the population of Qatar?",
+    "mentions": [
+      {
+        "string": "population",
+        "entity": "Q33829",
+        "property": "P1082"
+      },
+      {
+        "string": "Qatar",
+        "entity": "Q846"
+      }
+    ]
+  },
+  {
+    "q_id": 19,
+    "question": "Who is the author of the manga One Piece?",
+    "mentions": [
+      {
+        "string": "One Piece",
+        "entity": "Q28667972"
+      },
+      {
+        "string": "manga",
+        "entity": "Q8274"
+      },
+      {
+        "string": "author",
+        "entity": "Q36180",
+        "property": "P50"
+      },
+      {
+        "string": "author of",
+        "property": "P50",
+        "inverse": true
+      }
+    ]
+  },
+  {
+    "q_id": 21,
+    "question": "How many movies has Tarantino directed?",
+    "mentions": [
+      {
+        "string": "Tarantino",
+        "entity": "Q3772"
+      },
+      {
+        "string": "movies",
+        "entity": "Q11424"
+      },
+      {
+        "string": "directed",
+        "entity": "Q2526255",
+        "property": "P57",
+        "inverse": true
+      }
+    ]
+  },
+  {
+    "q_id": 22,
+    "question": "Is New York bigger than Beijing in terms of population?",
+    "mentions": [
+      {
+        "string": "New York",
+        "entity": "Q60"
+      },
+      {
+        "string": "Beijing",
+        "entity": "Q956"
+      },
+      {
+        "string": "population",
+        "entity": "Q33829",
+        "property": "P1082"
+      }
+    ]
+  },
+  {
+    "q_id": 23,
+    "question": "Is New York bigger than Beijing in terms of area?",
+    "mentions": [
+      {
+        "string": "New York",
+        "entity": "Q60"
+      },
+      {
+        "string": "Beijing",
+        "entity": "Q956"
+      },
+      {
+        "string": "area",
+        "entity": "Q11500",
+        "property": "P2046"
+      }
+    ]
+  },
+  {
+    "q_id": 26,
+    "question": "Is Leonardo DiCaprio older than Joaquin Phoenix?",
+    "mentions": [
+      {
+        "string": "Leonardo DiCaprio",
+        "entity": "Q38111"
+      },
+      {
+        "string": "Joaquin Phoenix",
+        "entity": "Q185140"
+      },
+      {
+        "string": "older",
+        "property": "P569"
+      }
+    ]
+  },
+  {
+    "q_id": 27,
+    "question": "In which country is the Museo del Prado located?",
+    "mentions": [
+      {
+        "string": "Museo del Prado",
+        "entity": "Q160112"
+      },
+      {
+        "string": "country",
+        "entity": "Q3624078"
+      },
+      {
+        "string": "located",
+        "entity": "Q2221906",
+        "property": "P17"
+      }
+    ]
+  },
+  {
+    "q_id": 28,
+    "question": "When did Caesars Palace open?",
+    "mentions": [
+      {
+        "string": "Caesars Palace",
+        "entity": "Q569978"
+      },
+      {
+        "string": "open",
+        "entity": "Q15051339",
+        "property": "P571"
+      }
+    ]
+  },
+  {
+    "q_id": 29,
+    "question": "Which political parties was Abraham Lincoln a member of?",
+    "mentions": [
+      {
+        "string": "Abraham Lincoln",
+        "entity": "Q91"
+      },
+      {
+        "string": "political parties",
+        "entity": "Q7278"
+      },
+      {
+        "string": "member",
+        "entity": "Q9200127",
+        "property": "P463",
+        "inverse": true
+      },
+      {
+        "string": "member of",
+        "property": "P463"
+      }
+    ]
+  },
+  {
+    "q_id": 30,
+    "question": "Which paintings feature a banana?",
+    "mentions": [
+      {
+        "string": "banana",
+        "entity": "Q503"
+      },
+      {
+        "string": "paintings",
+        "entity": "Q3305213"
+      },
+      {
+        "string": "feature",
+        "property": "P180"
+      }
+    ]
+  },
+  {
+    "q_id": 31,
+    "question": "Do any national flags use pink?",
+    "mentions": [
+      {
+        "string": "national flags",
+        "entity": "Q186516"
+      },
+      {
+        "string": "pink",
+        "entity": "Q429220"
+      },
+      {
+        "string": "flag",
+        "entity": "Q14660"
+      }
+    ]
+  },
+  {
+    "q_id": 32,
+    "question": "When did Ian Curtis commit suicide?",
+    "mentions": [
+      {
+        "string": "Ian Curtis",
+        "entity": "Q207867"
+      },
+      {
+        "string": "suicide",
+        "entity": "Q10737",
+        "property": "P570",
+        "mention": "implicit"
+      }
+    ]
+  },
+  {
+    "q_id": 33,
+    "question": "Did Ian Curtis commit suicide?",
+    "mentions": [
+      {
+        "string": "Ian Curtis",
+        "entity": "Q207867"
+      },
+      {
+        "string": "suicide",
+        "entity": "Q10737"
+      }
+    ]
+  },
+  {
+    "q_id": 34,
+    "question": "When did Ian Curtis die?",
+    "mentions": [
+      {
+        "string": "Ian Curtis",
+        "entity": "Q207867"
+      },
+      {
+        "string": "die",
+        "entity": "Q4"
+      }
+    ]
+  },
+  {
+    "q_id": 35,
+    "question": "Is Ian Curtis dead?",
+    "mentions": [
+      {
+        "string": "Ian Curtis",
+        "entity": "Q207867"
+      },
+      {
+        "string": "dead",
+        "entity": "Q4",
+        "property": "P570"
+      }
+    ]
+  },
+  {
+    "q_id": 37,
+    "question": "In which movies did Al Pacino and Robert de Niro appear together?",
+    "mentions": [
+      {
+        "string": "Al Pacino",
+        "entity": "Q41163"
+      },
+      {
+        "string": "Robert de Niro",
+        "entity": "Q36949"
+      },
+      {
+        "string": "movies",
+        "entity": "Q11424"
+      },
+      {
+        "string": "Pacino",
+        "entity": "Q41163"
+      },
+      {
+        "string": "de Niro",
+        "entity": "Q36949"
+      },
+      {
+        "string": "appear",
+        "entity": "Q222749",
+        "property": "P161",
+        "inverse": true
+      },
+      {
+        "string": "movie",
+        "entity": "Q11424"
+      }
+    ]
+  },
+  {
+    "q_id": 38,
+    "question": "Who is the youngest head of state in the world?",
+    "mentions": [
+      {
+        "string": "world",
+        "entity": "Q2"
+      },
+      {
+        "string": "head of state",
+        "entity": "Q48352",
+        "property": "P35"
+      },
+      {
+        "string": "youngest",
+        "property": "P569",
+        "superlative": "max"
+      }
+    ]
+  },
+  {
+    "q_id": 42,
+    "question": "How many astronauts studied at MIT?",
+    "mentions": [
+      {
+        "string": "astronauts",
+        "entity": "Q11631"
+      },
+      {
+        "string": "MIT",
+        "entity": "Q49108"
+      },
+      {
+        "string": "studied",
+        "entity": "Q9347372",
+        "property": "P69"
+      },
+      {
+        "string": "studied at",
+        "property": "P69"
+      }
+    ]
+  },
+  {
+    "q_id": 43,
+    "question": "When was the first exoplanet discovered?",
+    "mentions": [
+      {
+        "string": "exoplanet",
+        "entity": "Q44559"
+      },
+      {
+        "string": "discovered",
+        "entity": "Q12772819",
+        "property": "P575"
+      }
+    ]
+  },
+  {
+    "q_id": 45,
+    "question": "What buildings are named after JFK?",
+    "mentions": [
+      {
+        "string": "buildings",
+        "entity": "Q41176"
+      },
+      {
+        "string": "JFK",
+        "entity": "Q9696"
+      },
+      {
+        "string": "named after",
+        "property": "P138"
+      },
+      {
+        "string": "named",
+        "entity": "Q82799",
+        "property": "P138"
+      }
+    ]
+  },
+  {
+    "q_id": 46,
+    "question": "When was Hey Jude released?",
+    "mentions": [
+      {
+        "string": "Hey Jude",
+        "entity": "Q607742"
+      },
+      {
+        "string": "released",
+        "entity": "Q2031291",
+        "property": "P577"
+      },
+      {
+        "string": "released",
+        "entity": "Q732577",
+        "property": "P577"
+      }
+    ]
+  },
+  {
+    "q_id": 47,
+    "question": "Which countries currently have multiple capitals?",
+    "mentions": [
+      {
+        "string": "countries",
+        "entity": "Q3624078"
+      },
+      {
+        "string": "countries",
+        "entity": "Q6256"
+      },
+      {
+        "string": "capitals",
+        "entity": "Q5119",
+        "property": "P36"
+      },
+      {
+        "string": "capital",
+        "entity": "Q5119",
+        "property": "P36"
+      }
+    ]
+  },
+  {
+    "q_id": 48,
+    "question": "Which video games are known to be NP-complete?",
+    "mentions": [
+      {
+        "string": "video games",
+        "entity": "Q7889"
+      },
+      {
+        "string": "NP-complete",
+        "entity": "Q215206"
+      }
+    ]
+  },
+  {
+    "q_id": 49,
+    "question": "Which countries are named after plants?",
+    "mentions": [
+      {
+        "string": "countries",
+        "entity": "Q3624078"
+      },
+      {
+        "string": "plants",
+        "entity": "Q756"
+      },
+      {
+        "string": "named after",
+        "property": "P138"
+      },
+      {
+        "string": "named",
+        "entity": "Q82799",
+        "property": "P138"
+      }
+    ]
+  },
+  {
+    "q_id": 51,
+    "question": "What is the chemical symbol for Potassium?",
+    "mentions": [
+      {
+        "string": "Potassium",
+        "entity": "Q703"
+      },
+      {
+        "string": "chemical symbol",
+        "entity": "Q102500",
+        "property": "P246"
+      },
+      {
+        "string": "symbol",
+        "entity": "Q102500",
+        "property": "P246"
+      }
+    ]
+  },
+  {
+    "q_id": 52,
+    "question": "What is the Twitter account of Elon Musk?",
+    "mentions": [
+      {
+        "string": "Elon Musk",
+        "entity": "Q317521"
+      },
+      {
+        "string": "Musk",
+        "entity": "Q317521"
+      },
+      {
+        "string": "Twitter",
+        "entity": "Q918",
+        "property": "P2002"
+      },
+      {
+        "string": "Twitter",
+        "entity": "Q63976454",
+        "property": "P2002"
+      },
+      {
+        "string": "account",
+        "entity": "Q102345381"
+      },
+      {
+        "string": "Twitter account",
+        "entity": "Q63976454",
+        "property": "P2002"
+      }
+    ]
+  },
+  {
+    "q_id": 53,
+    "question": "Which alkali metals are in period 4?",
+    "mentions": [
+      {
+        "string": "alkali metals",
+        "entity": "Q19557"
+      },
+      {
+        "string": "alkali metal",
+        "entity": "Q19557"
+      },
+      {
+        "string": "period 4",
+        "entity": "Q239825",
+        "property": "P361",
+        "mention": "implicit"
+      },
+      {
+        "string": "are in",
+        "property": "P361"
+      }
+    ]
+  },
+  {
+    "q_id": 54,
+    "question": "Where are platypuses endemic?",
+    "mentions": [
+      {
+        "string": "platypuses",
+        "entity": "Q15343"
+      },
+      {
+        "string": "endemic",
+        "entity": "Q123452",
+        "property": "P183"
+      },
+      {
+        "string": "Where are",
+        "property": "P183"
+      }
+    ]
+  },
+  {
+    "q_id": 55,
+    "question": "Which species endemic to Chile are endangered?",
+    "mentions": [
+      {
+        "string": "endangered",
+        "entity": "Q11394"
+      },
+      {
+        "string": "endangered",
+        "entity": "Q96377276"
+      },
+      {
+        "string": "Chile",
+        "entity": "Q298"
+      },
+      {
+        "string": "species",
+        "entity": "Q7432"
+      },
+      {
+        "string": "endemic",
+        "entity": "Q123452",
+        "property": "P183"
+      }
+    ]
+  },
+  {
+    "q_id": 56,
+    "question": "What country has the most nuclear power plants?",
+    "mentions": [
+      {
+        "string": "nuclear power plants",
+        "entity": "Q134447"
+      },
+      {
+        "string": "country",
+        "entity": "Q6256"
+      },
+      {
+        "string": "country",
+        "entity": "Q3624078"
+      },
+      {
+        "string": "has",
+        "property": "P17",
+        "inverse": true
+      }
+    ]
+  },
+  {
+    "q_id": 57,
+    "question": "Which country has the most official languages?",
+    "mentions": [
+      {
+        "string": "country",
+        "entity": "Q6256"
+      },
+      {
+        "string": "country",
+        "entity": "Q3624078"
+      },
+      {
+        "string": "languages",
+        "entity": "Q34770"
+      },
+      {
+        "string": "official languages",
+        "entity": "Q23492",
+        "property": "P37"
+      }
+    ]
+  },
+  {
+    "q_id": 58,
+    "question": "When did ICLR start?",
+    "mentions": [
+      {
+        "string": "ICLR",
+        "entity": "Q30108190"
+      },
+      {
+        "string": "start",
+        "entity": "Q529711",
+        "property": "P571"
+      }
+    ]
+  },
+  {
+    "q_id": 59,
+    "question": "Which countries that do not border Germany have German as an official language?",
+    "mentions": [
+      {
+        "string": "countries",
+        "entity": "Q6256"
+      },
+      {
+        "string": "countries",
+        "entity": "Q3624078"
+      },
+      {
+        "string": "Germany",
+        "entity": "Q183"
+      },
+      {
+        "string": "German",
+        "entity": "Q188"
+      },
+      {
+        "string": "language",
+        "entity": "Q34770"
+      },
+      {
+        "string": "official language",
+        "entity": "Q23492",
+        "property": "P37"
+      },
+      {
+        "string": "border",
+        "entity": "Q133346",
+        "property": "P47"
+      }
+    ]
+  },
+  {
+    "q_id": 60,
+    "question": "What is the national anthem of Greece?",
+    "mentions": [
+      {
+        "string": "Greece",
+        "entity": "Q41"
+      },
+      {
+        "string": "national anthem",
+        "entity": "Q23691",
+        "property": "P85"
+      }
+    ]
+  },
+  {
+    "q_id": 61,
+    "question": "Which company makes Twix?",
+    "mentions": [
+      {
+        "string": "Twix",
+        "entity": "Q869733"
+      },
+      {
+        "string": "company",
+        "entity": "Q783794"
+      },
+      {
+        "string": "makes",
+        "entity": "Q13235160",
+        "property": "P176",
+        "inverse": true
+      }
+    ]
+  },
+  {
+    "q_id": 62,
+    "question": "What is the nearest black hole to Earth?",
+    "mentions": [
+      {
+        "string": "black hole",
+        "entity": "Q589"
+      },
+      {
+        "string": "Earth",
+        "entity": "Q2"
+      },
+      {
+        "string": "nearest",
+        "property": "P2583",
+        "superlative": "min"
+      }
+    ]
+  },
+  {
+    "q_id": 64,
+    "question": "Which conferences focus on Machine Learning?",
+    "mentions": [
+      {
+        "string": "conferences",
+        "entity": "Q47258130"
+      },
+      {
+        "string": "Machine Learning",
+        "entity": "Q2539",
+        "property": "P921",
+        "mention": "implicit"
+      },
+      {
+        "string": "focus on",
+        "entity": "Q12310021",
+        "property": "P921"
+      }
+    ]
+  },
+  {
+    "q_id": 65,
+    "question": "Which cities are named after an apostle?",
+    "mentions": [
+      {
+        "string": "cities",
+        "entity": "Q515"
+      },
+      {
+        "string": "apostle",
+        "entity": "Q43412"
+      },
+      {
+        "string": "named",
+        "entity": "Q82799",
+        "property": "P138"
+      },
+      {
+        "string": "name",
+        "entity": "Q82799",
+        "property": "P138"
+      },
+      {
+        "string": "named after",
+        "property": "P138"
+      }
+    ]
+  },
+  {
+    "q_id": 66,
+    "question": "What chocolate bars are made by Nestlé?",
+    "mentions": [
+      {
+        "string": "chocolate bars",
+        "entity": "Q1361086"
+      },
+      {
+        "string": "Nestlé",
+        "entity": "Q160746"
+      },
+      {
+        "string": "chocolate",
+        "entity": "Q195"
+      },
+      {
+        "string": "made by",
+        "entity": "Q187939",
+        "property": "P176"
+      }
+    ]
+  },
+  {
+    "q_id": 67,
+    "question": "Who was the US president before Richard Nixon?",
+    "mentions": [
+      {
+        "string": "US president",
+        "entity": "Q11696",
+        "property": "P39",
+        "mention": "implicit"
+      },
+      {
+        "string": "Richard Nixon",
+        "entity": "Q9588"
+      },
+      {
+        "string": "president",
+        "entity": "Q30461",
+        "property": "P39",
+        "mention": "implicit"
+      },
+      {
+        "string": "Nixon",
+        "entity": "Q9588"
+      },
+      {
+        "string": "before",
+        "property": "P1365"
+      }
+    ]
+  },
+  {
+    "q_id": 68,
+    "question": "How many books are in The Hitchhiker's Guide to the Galaxy series?",
+    "mentions": [
+      {
+        "string": "The Hitchhiker's Guide to the Galaxy series",
+        "entity": "Q25169"
+      },
+      {
+        "string": "The Hitchhiker's Guide to the Galaxy",
+        "entity": "Q98557758"
+      },
+      {
+        "string": "Hitchhiker's Guide to the Galaxy",
+        "entity": "Q98557758"
+      },
+      {
+        "string": "books",
+        "entity": "Q571"
+      },
+      {
+        "string": "series",
+        "entity": "Q1667921"
+      },
+      {
+        "string": "are in",
+        "property": "P527"
+      }
+    ]
+  },
+  {
+    "q_id": 69,
+    "question": "Which Simpsons characters were not born in Springfield?",
+    "mentions": [
+      {
+        "string": "Simpsons",
+        "entity": "Q7764350"
+      },
+      {
+        "string": "Simpsons",
+        "entity": "Q61468436"
+      },
+      {
+        "string": "Springfield",
+        "entity": "Q151076"
+      },
+      {
+        "string": "characters",
+        "entity": "Q95074"
+      },
+      {
+        "string": "born",
+        "entity": "Q14819852",
+        "property": "P19"
+      },
+      {
+        "string": "born in",
+        "entity": "Q14819852",
+        "property": "P19"
+      }
+    ]
+  },
+  {
+    "q_id": 70,
+    "question": "When was sparkling water invented?",
+    "mentions": [
+      {
+        "string": "sparkling water",
+        "entity": "Q264554"
+      },
+      {
+        "string": "water",
+        "entity": "Q283"
+      },
+      {
+        "string": "invented",
+        "entity": "Q14208553"
+      }
+    ]
+  },
+  {
+    "q_id": 72,
+    "question": "Who is the tallest professional basketball player of all time?",
+    "mentions": [
+      {
+        "string": "basketball player",
+        "entity": "Q3665646"
+      },
+      {
+        "string": "professional basketball player",
+        "entity": "Q3665646"
+      },
+      {
+        "string": "tallest",
+        "entity": "Q208826",
+        "property": "P2048",
+        "superlative": "max"
+      },
+      {
+        "string": "player",
+        "entity": "Q4197743"
+      }
+    ]
+  },
+  {
+    "q_id": 73,
+    "question": "What age is Justin Bieber?",
+    "mentions": [
+      {
+        "string": "Justin Bieber",
+        "entity": "Q34086"
+      },
+      {
+        "string": "age",
+        "entity": "Q185836"
+      }
+    ]
+  },
+  {
+    "q_id": 74,
+    "question": "Is Justin Bieber alive?",
+    "mentions": [
+      {
+        "string": "Justin Bieber",
+        "entity": "Q34086"
+      },
+      {
+        "string": "alive",
+        "entity": "Q21075715",
+        "property": "P570",
+        "quantifier": "not exists"
+      },
+      {
+        "string": "alive",
+        "entity": "Q21075715",
+        "property": "P20",
+        "quantifier": "not exists"
+      }
+    ]
+  },
+  {
+    "q_id": 75,
+    "question": "Is Justin Bieber dead?",
+    "mentions": [
+      {
+        "string": "Justin Bieber",
+        "entity": "Q34086"
+      },
+      {
+        "string": "dead",
+        "entity": "Q4",
+        "property": "P570",
+        "quantifier": "exists"
+      },
+      {
+        "string": "dead",
+        "entity": "Q4",
+        "property": "P20",
+        "quantifier": "exists"
+      }
+    ]
+  },
+  {
+    "q_id": 76,
+    "question": "What age would Justin Bieber be if he were still alive?",
+    "mentions": [
+      {
+        "string": "Justin Bieber",
+        "entity": "Q34086"
+      },
+      {
+        "string": "age",
+        "entity": "Q185836"
+      },
+      {
+        "string": "alive",
+        "entity": "Q21075715",
+        "property": "P20",
+        "quantifier": "not exists"
+      },
+      {
+        "string": "alive",
+        "entity": "Q21075715",
+        "property": "P570",
+        "quantifier": "not exists"
+      }
+    ]
+  },
+  {
+    "q_id": 80,
+    "question": "Is Michael Jackson the oldest child?",
+    "mentions": [
+      {
+        "string": "Michael Jackson",
+        "entity": "Q2831"
+      },
+      {
+        "string": "child",
+        "entity": "Q7569",
+        "property": "P40"
+      },
+      {
+        "string": "oldest",
+        "property": "P569",
+        "superlative": "min"
+      }
+    ]
+  },
+  {
+    "q_id": 84,
+    "question": "Which element precedes tin in the periodic table?",
+    "mentions": [
+      {
+        "string": "tin",
+        "entity": "Q1096"
+      },
+      {
+        "string": "element",
+        "entity": "Q11344"
+      },
+      {
+        "string": "periodic table",
+        "entity": "Q10693"
+      },
+      {
+        "string": "precedes",
+        "entity": "Q106110777",
+        "property": "P155"
+      }
+    ]
+  },
+  {
+    "q_id": 85,
+    "question": "Which element has the lowest melting point?",
+    "mentions": [
+      {
+        "string": "element",
+        "entity": "Q11344"
+      },
+      {
+        "string": "melting point",
+        "entity": "Q15318",
+        "property": "P2101"
+      },
+      {
+        "string": "lowest melting point",
+        "property": "P2101",
+        "superlative": "min"
+      }
+    ]
+  },
+  {
+    "q_id": 86,
+    "question": "Which language is the official language of the most countries?",
+    "mentions": [
+      {
+        "string": "language",
+        "entity": "Q34770"
+      },
+      {
+        "string": "official language",
+        "entity": "Q23492",
+        "property": "P37"
+      },
+      {
+        "string": "countries",
+        "entity": "Q3624078"
+      },
+      {
+        "string": "countries",
+        "entity": "Q6256"
+      },
+      {
+        "string": "official language of",
+        "property": "P37",
+        "inverse": true
+      }
+    ]
+  },
+  {
+    "q_id": 89,
+    "question": "Which honorary mayors were not human?",
+    "mentions": [
+      {
+        "string": "mayors",
+        "entity": "Q30185"
+      },
+      {
+        "string": "human",
+        "entity": "Q5"
+      },
+      {
+        "string": "were",
+        "property": "P39"
+      }
+    ]
+  },
+  {
+    "q_id": 90,
+    "question": "Which polygonal numbers are also pronic?",
+    "mentions": [
+      {
+        "string": "polygonal numbers",
+        "entity": "Q836270"
+      },
+      {
+        "string": "numbers",
+        "entity": "Q11563"
+      },
+      {
+        "string": "polygonal",
+        "entity": "Q836270"
+      },
+      {
+        "string": "pronic",
+        "entity": "Q1486643"
+      }
+    ]
+  },
+  {
+    "q_id": 91,
+    "question": "What's the next prime after 51?",
+    "mentions": [
+      {
+        "string": "prime",
+        "entity": "Q49008"
+      },
+      {
+        "string": "51",
+        "entity": "Q712808"
+      },
+      {
+        "string": "after",
+        "entity": "Q106110771",
+        "property": "P156"
+      },
+      {
+        "string": "next",
+        "entity": "Q106110771",
+        "property": "P156"
+      }
+    ]
+  },
+  {
+    "q_id": 92,
+    "question": "What animal can hear the highest frequency?",
+    "mentions": [
+      {
+        "string": "animal",
+        "entity": "Q729"
+      },
+      {
+        "string": "hear",
+        "entity": "Q160289"
+      },
+      {
+        "string": "frequency",
+        "entity": "Q11652"
+      },
+      {
+        "string": "hear the highest frequency",
+        "property": "P3465",
+        "superlative": "max"
+      }
+    ]
+  },
+  {
+    "q_id": 94,
+    "question": "Who has won more than one type of Nobel Prize?",
+    "mentions": [
+      {
+        "string": "Nobel Prize",
+        "entity": "Q7191"
+      },
+      {
+        "string": "won",
+        "entity": "Q50000",
+        "property": "P166"
+      },
+      {
+        "string": "one",
+        "entity": "Q199"
+      },
+      {
+        "string": "Prize",
+        "entity": "Q5257307"
+      },
+      {
+        "string": "Nobel",
+        "entity": "Q23810"
+      }
+    ]
+  },
+  {
+    "q_id": 95,
+    "question": "Which city has the most cathedrals?",
+    "mentions": [
+      {
+        "string": "city",
+        "entity": "Q515"
+      },
+      {
+        "string": "cathedrals",
+        "entity": "Q2977"
+      },
+      {
+        "string": "has",
+        "property": "P131",
+        "inverse": true
+      }
+    ]
+  },
+  {
+    "q_id": 96,
+    "question": "What make of car is a Corolla?",
+    "mentions": [
+      {
+        "string": "make of car",
+        "entity": "Q786820",
+        "property": "P176"
+      },
+      {
+        "string": "Corolla",
+        "entity": "Q243543"
+      },
+      {
+        "string": "car",
+        "entity": "Q1420"
+      },
+      {
+        "string": "make",
+        "entity": "Q431289",
+        "property": "P176"
+      }
+    ]
+  },
+  {
+    "q_id": 97,
+    "question": "What is the tallest mountain in the Andes?",
+    "mentions": [
+      {
+        "string": "mountain",
+        "entity": "Q8502"
+      },
+      {
+        "string": "Andes",
+        "entity": "Q5456"
+      },
+      {
+        "string": "tallest",
+        "entity": "Q208826",
+        "property": "P610",
+        "superlative": "max"
+      },
+      {
+        "string": "tallest",
+        "entity": "Q190200",
+        "property": "P610",
+        "superlative": "max"
+      }
+    ]
+  },
+  {
+    "q_id": 98,
+    "question": "Which U.S. president had the most spouses?",
+    "mentions": [
+      {
+        "string": "spouses",
+        "entity": "Q1196129",
+        "property": "P26"
+      },
+      {
+        "string": "president",
+        "entity": "Q30461",
+        "property": "P35",
+        "mention": "subproperty"
+      },
+      {
+        "string": "U.S.",
+        "entity": "Q30"
+      },
+      {
+        "string": "U.S. president",
+        "entity": "Q11696",
+        "property": "P39",
+        "mention": "implicit"
+      }
+    ]
+  },
+  {
+    "q_id": 99,
+    "question": "When was the Rubik's cube invented?",
+    "mentions": [
+      {
+        "string": "Rubik's cube",
+        "entity": "Q47043"
+      },
+      {
+        "string": "invented",
+        "entity": "Q14208553"
+      },
+      {
+        "string": "cube",
+        "entity": "Q812880"
+      },
+      {
+        "string": "Rubik",
+        "entity": "Q186089"
+      }
+    ]
+  },
+  {
+    "q_id": 100,
+    "question": "Which conferences were organized by Turing Award winners?",
+    "mentions": [
+      {
+        "string": "conferences",
+        "entity": "Q2020153"
+      },
+      {
+        "string": "Turing Award",
+        "entity": "Q185667"
+      },
+      {
+        "string": "winners",
+        "entity": "Q18560095",
+        "property": "P166"
+      },
+      {
+        "string": "organized",
+        "entity": "Q1419997",
+        "property": "P664",
+        "inverse": true
+      },
+      {
+        "string": "Turing",
+        "entity": "Q7251"
+      },
+      {
+        "string": "organized by",
+        "property": "P664"
+      }
+    ]
+  },
+  {
+    "q_id": 101,
+    "question": "What video games are made by the developer of League of Legends?",
+    "mentions": [
+      {
+        "string": "video games",
+        "entity": "Q7889"
+      },
+      {
+        "string": "League of Legends",
+        "entity": "Q223341"
+      },
+      {
+        "string": "developer",
+        "entity": "Q210167",
+        "property": "P178"
+      },
+      {
+        "string": "made by",
+        "property": "P178"
+      }
+    ]
+  },
+  {
+    "q_id": 102,
+    "question": "Which writers speak French, Arabic and Japanese?",
+    "mentions": [
+      {
+        "string": "writers",
+        "entity": "Q36180"
+      },
+      {
+        "string": "French",
+        "entity": "Q150"
+      },
+      {
+        "string": "Arabic",
+        "entity": "Q13955"
+      },
+      {
+        "string": "Japanese",
+        "entity": "Q5287"
+      },
+      {
+        "string": "speak",
+        "entity": "Q315",
+        "property": "P1412"
+      }
+    ]
+  },
+  {
+    "q_id": 104,
+    "question": "What whisky distilleries are based in Ireland?",
+    "mentions": [
+      {
+        "string": "whisky distilleries",
+        "entity": "Q10373548"
+      },
+      {
+        "string": "Ireland",
+        "entity": "Q27"
+      },
+      {
+        "string": "whisky",
+        "entity": "Q281"
+      },
+      {
+        "string": "distilleries",
+        "entity": "Q1251750"
+      },
+      {
+        "string": "based in",
+        "property": "P17"
+      },
+      {
+        "string": "in",
+        "property": "P17"
+      }
+    ]
+  },
+  {
+    "q_id": 106,
+    "question": "How many regions of France are there?",
+    "mentions": [
+      {
+        "string": "regions of France",
+        "entity": "Q36784"
+      },
+      {
+        "string": "regions",
+        "entity": "Q82794"
+      },
+      {
+        "string": "regions",
+        "entity": "Q36784"
+      },
+      {
+        "string": "France",
+        "entity": "Q142"
+      }
+    ]
+  },
+  {
+    "q_id": 107,
+    "question": "Which living people have an element named after them?",
+    "mentions": [
+      {
+        "string": "people",
+        "entity": "Q5"
+      },
+      {
+        "string": "element",
+        "entity": "Q11344"
+      },
+      {
+        "string": "living",
+        "entity": "Q21075715",
+        "property": "P20",
+        "quantifier": "not exists"
+      },
+      {
+        "string": "living",
+        "entity": "Q21075715",
+        "property": "P570",
+        "quantifier": "not exists"
+      },
+      {
+        "string": "named",
+        "entity": "Q82799",
+        "property": "P138"
+      },
+      {
+        "string": "named after",
+        "property": "P138"
+      }
+    ]
+  },
+  {
+    "q_id": 108,
+    "question": "Which Chilean companies have U.S. parent companies?",
+    "mentions": [
+      {
+        "string": "Chilean",
+        "entity": "Q298",
+        "property": "P17",
+        "mention": "implicit"
+      },
+      {
+        "string": "companies",
+        "entity": "Q783794"
+      },
+      {
+        "string": "companies",
+        "entity": "Q4830453"
+      },
+      {
+        "string": "companies",
+        "entity": "Q21980538"
+      },
+      {
+        "string": "parent companies",
+        "entity": "Q1956113",
+        "property": "P749"
+      },
+      {
+        "string": "U.S.",
+        "entity": "Q30",
+        "property": "P17",
+        "mention": "implicit"
+      }
+    ]
+  },
+  {
+    "q_id": 109,
+    "question": "Did Tarantino direct a movie last year?",
+    "mentions": [
+      {
+        "string": "Tarantino",
+        "entity": "Q3772"
+      },
+      {
+        "string": "movie",
+        "entity": "Q11424"
+      },
+      {
+        "string": "direct",
+        "entity": "Q2137554",
+        "property": "P57"
+      },
+      {
+        "string": "year",
+        "entity": "Q577"
+      }
+    ]
+  },
+  {
+    "q_id": 112,
+    "question": "Which movie of the last ten years has won the most Academy Awards?",
+    "mentions": [
+      {
+        "string": "movie",
+        "entity": "Q11424"
+      },
+      {
+        "string": "ten",
+        "entity": "Q23806"
+      },
+      {
+        "string": "years",
+        "entity": "Q577"
+      },
+      {
+        "string": "years",
+        "entity": "Q24564698"
+      },
+      {
+        "string": "won",
+        "entity": "Q50000",
+        "property": "P166"
+      },
+      {
+        "string": "Academy Awards",
+        "entity": "Q19020"
+      }
+    ]
+  },
+  {
+    "q_id": 113,
+    "question": "Who was the winner of the latest Fields Medal?",
+    "mentions": [
+      {
+        "string": "winner",
+        "entity": "Q18560095",
+        "property": "P166",
+        "inverse": true
+      },
+      {
+        "string": "Fields Medal",
+        "entity": "Q28835"
+      },
+      {
+        "string": "Fields",
+        "entity": "Q315431"
+      },
+      {
+        "string": "Medal",
+        "entity": "Q131647"
+      },
+      {
+        "string": "Medal",
+        "entity": "Q618779"
+      }
+    ]
+  },
+  {
+    "q_id": 114,
+    "question": "Who wrote The Old Man and the Sea?",
+    "mentions": [
+      {
+        "string": "The Old Man and the Sea",
+        "entity": "Q26505"
+      },
+      {
+        "string": "wrote",
+        "entity": "Q2250012",
+        "property": "P50",
+        "inverse": true
+      },
+      {
+        "string": "wrote",
+        "entity": "Q36180",
+        "property": "P50",
+        "inverse": true
+      }
+    ]
+  },
+  {
+    "q_id": 115,
+    "question": "Which YouTube channels talk about math?",
+    "mentions": [
+      {
+        "string": "YouTube",
+        "entity": "Q866"
+      },
+      {
+        "string": "YouTube channels",
+        "entity": "Q17558136"
+      },
+      {
+        "string": "math",
+        "entity": "Q395"
+      },
+      {
+        "string": "channel",
+        "entity": "Q733553"
+      },
+      {
+        "string": "talk about",
+        "property": "P921"
+      }
+    ]
+  },
+  {
+    "q_id": 117,
+    "question": "What diseases are associated with the gene FGF14?",
+    "mentions": [
+      {
+        "string": "diseases",
+        "entity": "Q12136"
+      },
+      {
+        "string": "gene",
+        "entity": "Q7187"
+      },
+      {
+        "string": "FGF14",
+        "entity": "Q17928040"
+      },
+      {
+        "string": "associated",
+        "entity": "Q744727",
+        "property": "P2293"
+      }
+    ]
+  },
+  {
+    "q_id": 118,
+    "question": "What ultra-cool dwarfs have been found in the constellation Aquarius?",
+    "mentions": [
+      {
+        "string": "ultra-cool dwarfs",
+        "entity": "Q24039974"
+      },
+      {
+        "string": "constellation",
+        "entity": "Q8928",
+        "property": "P59"
+      },
+      {
+        "string": "Aquarius",
+        "entity": "Q10576"
+      },
+      {
+        "string": "dwarfs",
+        "entity": "Q244393"
+      }
+    ]
+  },
+  {
+    "q_id": 119,
+    "question": "Kim Deal played with which bands?",
+    "mentions": [
+      {
+        "string": "Kim Deal",
+        "entity": "Q240509"
+      },
+      {
+        "string": "bands",
+        "entity": "Q215380"
+      },
+      {
+        "string": "played with",
+        "property": "P463"
+      }
+    ]
+  },
+  {
+    "q_id": 120,
+    "question": "Who supervised the PhD of Alan Turing?",
+    "mentions": [
+      {
+        "string": "Alan Turing",
+        "entity": "Q7251"
+      },
+      {
+        "string": "Turing",
+        "entity": "Q7251"
+      },
+      {
+        "string": "supervised the PhD",
+        "entity": "Q363802",
+        "property": "P184",
+        "inverse": true
+      },
+      {
+        "string": "PhD",
+        "entity": "Q752297"
+      },
+      {
+        "string": "supervised",
+        "entity": "Q101405849",
+        "property": "P7604",
+        "inverse": true
+      }
+    ]
+  },
+  {
+    "q_id": 121,
+    "question": "Which movies directed by Chloé Zhao are not MPAA-rated R?",
+    "mentions": [
+      {
+        "string": "movies",
+        "entity": "Q11424"
+      },
+      {
+        "string": "Chloé Zhao",
+        "entity": "Q21078321"
+      },
+      {
+        "string": "directed",
+        "entity": "Q2526255",
+        "property": "P57"
+      },
+      {
+        "string": "direct",
+        "entity": "Q2526255",
+        "property": "P57"
+      },
+      {
+        "string": "MPAA-rated",
+        "entity": "Q23660208",
+        "property": "P1687"
+      },
+      {
+        "string": "rated",
+        "entity": "Q23660208",
+        "property": "P1687"
+      },
+      {
+        "string": "R",
+        "entity": "Q18665344"
+      },
+      {
+        "string": "MPAA",
+        "entity": "Q676222"
+      }
+    ]
+  },
+  {
+    "q_id": 122,
+    "question": "Who is the Hindu deity of knowledge?",
+    "mentions": [
+      {
+        "string": "Hindu",
+        "entity": "Q9089"
+      },
+      {
+        "string": "deity",
+        "entity": "Q178885"
+      },
+      {
+        "string": "knowledge",
+        "entity": "Q9081"
+      },
+      {
+        "string": "deity of",
+        "property": "P2925"
+      }
+    ]
+  },
+  {
+    "q_id": 123,
+    "question": "Which science fiction movies star Uma Thurman?",
+    "mentions": [
+      {
+        "string": "science fiction movies",
+        "entity": "Q471839"
+      },
+      {
+        "string": "Uma Thurman",
+        "entity": "Q125017"
+      },
+      {
+        "string": "movies",
+        "entity": "Q11424"
+      },
+      {
+        "string": "star",
+        "entity": "Q1765879",
+        "property": "P161"
+      },
+      {
+        "string": "science fiction",
+        "entity": "Q24925"
+      },
+      {
+        "string": "fiction",
+        "entity": "Q8253"
+      }
+    ]
+  },
+  {
+    "q_id": 124,
+    "question": "Which relational database management systems are open source?",
+    "mentions": [
+      {
+        "string": "relational database management systems",
+        "entity": "Q3932296"
+      },
+      {
+        "string": "open source",
+        "entity": "Q39162"
+      },
+      {
+        "string": "relational database",
+        "entity": "Q192588"
+      },
+      {
+        "string": "database",
+        "entity": "Q8513"
+      }
+    ]
+  }
+]

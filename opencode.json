@@ -1,0 +1,43 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "provider": {
+    "openai": {
+      "npm": "@ai-sdk/openai",
+      "name": "OpenAI",
+      "options": {
+        "apiKey": "{env:OPENAI_API_KEY}",
+        "baseURL": "https://api.openai.com/v1"
+      },
+      "models": {
+        "openai/gpt-5.6-luna": {
+          "name": "GPT-5.6 Luna"
+        },
+        "openai/gpt-5.4-mini": {
+          "name": "GPT-5.4 Mini"
+        }
+      }
+    }
+  },
+  "model": "openai/gpt-5.6-luna",
+  "small_model": "openai/gpt-5.4-mini",
+  "skills": {
+    "paths": [".agents/skills"]
+  },
+  "permission": {
+    "*": "ask",
+    "read": "ask",
+    "grep": "allow",
+    "glob": "allow",
+    "edit": "allow",
+    "bash": { "*": "allow" },
+    "webfetch": "allow",
+    "websearch": "allow",
+    "external_directory": {
+      "*": "allow",
+      "~/.config/opencode/**": "allow",
+      "/root/.config/opencode/**": "allow",
+      "/Users/nandana/Documents/src/": "allow"
+    },
+    "skill": "allow"
+  }
+}

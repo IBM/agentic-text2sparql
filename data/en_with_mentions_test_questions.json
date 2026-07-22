@@ -1,0 +1,1422 @@
+[
+  {
+    "q_id": 4,
+    "question": "From what epoch does the Burgess shale originate?",
+    "mentions": [
+      {
+        "string": "Burgess shale",
+        "entity": "Q852085"
+      },
+      {
+        "string": "epoch",
+        "entity": "Q754897",
+        "property": "P31"
+      },
+      {
+        "string": "originate",
+        "property": "P523"
+      }
+    ]
+  },
+  {
+    "q_id": 5,
+    "question": "What is the profession of Nikola Streiber?",
+    "mentions": [
+      {
+        "string": "Nikola Streiber",
+        "entity": "Q26713190"
+      },
+      {
+        "string": "profession",
+        "property": "P106"
+      }
+    ]
+  },
+  {
+    "q_id": 6,
+    "question": "Which literary figures had their books burned during the Nazi book burning event of 1933?",
+    "mentions": [
+      {
+        "string": "Nazi book burning event of 1933",
+        "entity": "Q3927614"
+      },
+      {
+        "string": "books burned",
+        "entity": "Q1851760"
+      }
+    ]
+  },
+  {
+    "q_id": 7,
+    "question": "What works of art feature the doppelgänger motif?",
+    "mentions": [
+      {
+        "string": "works of art",
+        "property": "P31",
+        "entity": "Q838948"
+      },
+      {
+        "string": "feature",
+        "property": "P921"
+      },
+      {
+        "string": "feature",
+        "property": "P6962"
+      },
+      {
+        "string": "doppelgänger motif",
+        "entity": "Q461363"
+      }
+    ]
+  },
+  {
+    "q_id": 13,
+    "question": "Which scientists working on the Manhattan project were convicted of espionage?",
+    "mentions": [
+      {
+        "string": "Manhattan project",
+        "entity": "Q127050"
+      },
+      {
+        "string": "espionage",
+        "entity": "Q165950"
+      },
+      {
+        "string": "scientists",
+        "property": "P106",
+        "entity": "Q901"
+      },
+      {
+        "string": "convicted of",
+        "property": "P1399"
+      },
+      {
+        "string": "working on",
+        "property": "P1344"
+      }
+    ]
+  },
+  {
+    "q_id": 16,
+    "question": "In which U.S. state is the Bettman archive located?",
+    "mentions": [
+      {
+        "string": "Bettman archive",
+        "entity": "Q850178"
+      },
+      {
+        "string": "located",
+        "property": "P276"
+      },
+      {
+        "string": "located",
+        "property": "P131"
+      },
+      {
+        "string": "U.S. state",
+        "entity": "Q35657",
+        "property": "P31"
+      }
+    ]
+  },
+  {
+    "q_id": 21,
+    "question": "The works of which anthropologists are credited as serving the basis for the movie Embrace of the Serpent?",
+    "mentions": [
+      {
+        "string": "Embrace of the Serpent",
+        "entity": "Q19824642"
+      },
+      {
+        "string": "basis for",
+        "property": "P1877",
+        "inverse": true
+      },
+      {
+        "string": "anthropologists",
+        "entity": "Q4773904",
+        "property": "P106"
+      }
+    ]
+  },
+  {
+    "q_id": 22,
+    "question": "What is the documented age of the oldest tree in the world?",
+    "mentions": [
+      {
+        "string": "oldest",
+        "property": "P569",
+        "superlative": "max"
+      },
+      {
+        "string": "tree",
+        "entity": "Q10884",
+        "property": "P31"
+      }
+    ]
+  },
+  {
+    "q_id": 23,
+    "question": "Which countries contain nuclear fusion reactors?",
+    "mentions": [
+      {
+        "string": "nuclear fusion reactors",
+        "entity": "Q11536219",
+        "property": "P31"
+      },
+      {
+        "string": "countries",
+        "property": "P17"
+      }
+    ]
+  },
+  {
+    "q_id": 25,
+    "question": "Which is the oldest journal in Physics still in publication?",
+    "mentions": [
+      {
+        "string": "oldest",
+        "property": "P571",
+        "superlative": "min"
+      },
+      {
+        "string": "still in publication",
+        "property": "P576",
+        "quantifier": "not exists"
+      },
+      {
+        "string": "journal",
+        "property": "P31",
+        "entity": "Q49850"
+      },
+      {
+        "string": "in Physics",
+        "property": "P101",
+        "entity": "Q413"
+      },
+      {
+        "string": "in Physics",
+        "property": "P921",
+        "entity": "Q413"
+      }
+    ]
+  },
+  {
+    "q_id": 28,
+    "question": "Who created the Wayback Machine?",
+    "mentions": [
+      {
+        "string": "Wayback Machine",
+        "entity": "Q648266"
+      },
+      {
+        "string": "created",
+        "property": "P170",
+        "inverse": true
+      }
+    ]
+  },
+  {
+    "q_id": 29,
+    "question": "Which programming languages are used in the Wayback Machine?",
+    "mentions": [
+      {
+        "string": "Wayback Machine",
+        "entity": "Q648266"
+      },
+      {
+        "string": "programming languages",
+        "property": "P277"
+      }
+    ]
+  },
+  {
+    "q_id": 31,
+    "question": "Which books written by Arthur Conan Doyle feature Sherlock Holmes?",
+    "mentions": [
+      {
+        "string": "books",
+        "property": "P31",
+        "entity": "Q7725634"
+      },
+      {
+        "string": "Sherlock Holmes",
+        "entity": "Q4653"
+      },
+      {
+        "string": "Arthur Conan Doyle",
+        "entity": "Q35610"
+      },
+      {
+        "string": "written by",
+        "property": "P50"
+      },
+      {
+        "string": "feature",
+        "property": "P674"
+      }
+    ]
+  },
+  {
+    "q_id": 34,
+    "question": "Are Erasmus Darwin and Charles Darwin related?",
+    "mentions": [
+      {
+        "string": "Charles Darwin",
+        "entity": "Q1035"
+      },
+      {
+        "string": "Erasmus Darwin",
+        "entity": "Q234050"
+      },
+      {
+        "string": "related",
+        "property": "P1038"
+      }
+    ]
+  },
+  {
+    "q_id": 37,
+    "question": "Which record labels did Arturo Toscanini perform for?",
+    "mentions": [
+      {
+        "string": "Arturo Toscanini",
+        "entity": "Q13003"
+      },
+      {
+        "string": "record labels",
+        "property": "P264"
+      }
+    ]
+  },
+  {
+    "q_id": 39,
+    "question": "What is the key signature of Brahms' Op. 98?",
+    "mentions": [
+      {
+        "string": "Op.",
+        "property": "P10855"
+      },
+      {
+        "string": "Op.",
+        "property": "P528"
+      },
+      {
+        "string": "Brahms'",
+        "entity": "Q7294",
+        "property": "P86"
+      },
+      {
+        "string": "key signature",
+        "property": "P826"
+      }
+    ]
+  },
+  {
+    "q_id": 41,
+    "question": "Which artwork inspired Debussy's La Mer?",
+    "mentions": [
+      {
+        "string": "La Mer",
+        "entity": "Q1057812"
+      },
+      {
+        "string": "Debussy's",
+        "entity": "Q4700"
+      },
+      {
+        "string": "inspired",
+        "property": "P737",
+        "inverse": true
+      },
+      {
+        "string": "inspired",
+        "property": "P1877",
+        "inverse": true
+      },
+      {
+        "string": "artwork",
+        "entity": "Q838948",
+        "property": "P31"
+      }
+    ]
+  },
+  {
+    "q_id": 42,
+    "question": "Which compositions by Debussy are written for a clarinet?",
+    "mentions": [
+      {
+        "string": "Debussy",
+        "entity": "Q4700"
+      },
+      {
+        "string": "clarinet",
+        "entity": "Q8343"
+      },
+      {
+        "string": "written for",
+        "property": "P870"
+      },
+      {
+        "string": "compositions by",
+        "property": "P86"
+      }
+    ]
+  },
+  {
+    "q_id": 44,
+    "question": "Which films' scores are composed by Philip Glass?",
+    "mentions": [
+      {
+        "string": "film",
+        "property": "P31",
+        "entity": "Q11424"
+      },
+      {
+        "string": "Philip Glass",
+        "entity": "Q189729"
+      },
+      {
+        "string": "composed by",
+        "property": "P86"
+      }
+    ]
+  },
+  {
+    "q_id": 46,
+    "question": "Where was Gertrude Bell buried?",
+    "mentions": [
+      {
+        "string": "Gertrude Bell",
+        "entity": "Q231360"
+      },
+      {
+        "string": "buried",
+        "property": "P119"
+      }
+    ]
+  },
+  {
+    "q_id": 47,
+    "question": "Which poets are buried in Montparnasse Cemetery?",
+    "mentions": [
+      {
+        "string": "poets",
+        "property": "P106",
+        "entity": "Q49757"
+      },
+      {
+        "string": "Montparnasse Cemetery",
+        "entity": "Q272208"
+      },
+      {
+        "string": "buried in",
+        "property": "P119"
+      }
+    ]
+  },
+  {
+    "q_id": 48,
+    "question": "Which geologists have died during a volcanic eruption?",
+    "mentions": [
+      {
+        "string": "geologists",
+        "property": "P106",
+        "entity": "Q520549"
+      },
+      {
+        "string": "volcanic eruption",
+        "entity": "Q29436423"
+      },
+      {
+        "string": "died",
+        "property": "P509"
+      }
+    ]
+  },
+  {
+    "q_id": 50,
+    "question": "What is the earliest dated mummy found in a peat bog?",
+    "mentions": [
+      {
+        "string": "mummy found in a peat bog",
+        "entity": "Q199414",
+        "property": "P31"
+      },
+      {
+        "string": "earliest dated",
+        "property": "P1319"
+      },
+      {
+        "string": "earliest dated",
+        "property": "P570",
+        "superlative": "min"
+      }
+    ]
+  },
+  {
+    "q_id": 52,
+    "question": "What is the Erdos number of Maryam Mirzakhani?",
+    "mentions": [
+      {
+        "string": "Erdos number",
+        "property": "P2021"
+      },
+      {
+        "string": "Maryam Mirzakhani",
+        "entity": "Q1771279"
+      }
+    ]
+  },
+  {
+    "q_id": 55,
+    "question": "How many moons orbit the planet Saturn?",
+    "mentions": [
+      {
+        "string": "moons",
+        "entity": "Q2537",
+        "property": "P31"
+      },
+      {
+        "string": "Saturn",
+        "entity": "Q193"
+      },
+      {
+        "string": "orbit",
+        "property": "P397"
+      }
+    ]
+  },
+  {
+    "q_id": 58,
+    "question": "Which actor has the highest number of film appearances as James Bond?",
+    "mentions": [
+      {
+        "string": "actor",
+        "property": "P175"
+      },
+      {
+        "string": "James Bond",
+        "entity": "Q2009573"
+      },
+      {
+        "string": "film",
+        "property": "P31",
+        "entity": "Q11424"
+      }
+    ]
+  },
+  {
+    "q_id": 59,
+    "question": "Which actor played the role of James Bond for the longest time-span?",
+    "mentions": [
+      {
+        "string": "James Bond",
+        "entity": "Q2009573"
+      },
+      {
+        "string": "actor",
+        "property": "P175"
+      },
+      {
+        "string": "played the role of",
+        "property": "P175",
+        "inverse": true
+      },
+      {
+        "string": "longest time-span",
+        "property": "P577",
+        "superlative": "max"
+      }
+    ]
+  },
+  {
+    "q_id": 60,
+    "question": "Who solved the 4CT problem?",
+    "mentions": [
+      {
+        "string": "4CT problem",
+        "entity": "Q184410"
+      },
+      {
+        "string": "solved",
+        "property": "P1318"
+      }
+    ]
+  },
+  {
+    "q_id": 61,
+    "question": "Who operated Colonia Dignidad?",
+    "mentions": [
+      {
+        "string": "Colonia Dignidad",
+        "entity": "Q701176"
+      },
+      {
+        "string": "operated",
+        "property": "P169"
+      }
+    ]
+  },
+  {
+    "q_id": 62,
+    "question": "How long is Sátántangó?",
+    "mentions": [
+      {
+        "string": "Sátántangó",
+        "entity": "Q53481"
+      },
+      {
+        "string": "long",
+        "property": "P2047"
+      }
+    ]
+  },
+  {
+    "q_id": 63,
+    "question": "What was the motto of the Knights templar?",
+    "mentions": [
+      {
+        "string": "Knights templar",
+        "entity": "Q41300"
+      },
+      {
+        "string": "motto",
+        "property": "P1451"
+      }
+    ]
+  },
+  {
+    "q_id": 64,
+    "question": "Which moves initiate the Speilmann Gambit in chess?",
+    "mentions": [
+      {
+        "string": "Speilmann Gambit",
+        "entity": "Q1814012"
+      },
+      {
+        "string": "moves initiate",
+        "property": "P5286"
+      }
+    ]
+  },
+  {
+    "q_id": 65,
+    "question": "Which genes are linked to Type 2 Diabetes?",
+    "mentions": [
+      {
+        "string": "Type 2 Diabetes",
+        "entity": "Q3025883"
+      },
+      {
+        "string": "genes are linked to",
+        "property": "P2293",
+        "inverse": true
+      }
+    ]
+  },
+  {
+    "q_id": 66,
+    "question": "What was the latest movie shot entirely in black-and-white that won an Academy Award for Best International Feature film?",
+    "mentions": [
+      {
+        "string": "Academy Award for Best International Feature film",
+        "entity": "Q105304"
+      },
+      {
+        "string": "won",
+        "property": "P166"
+      },
+      {
+        "string": "black-and-white",
+        "property": "P462",
+        "entity": "Q838368"
+      },
+      {
+        "string": "latest",
+        "property": "P585",
+        "superlative": "max"
+      }
+    ]
+  },
+  {
+    "q_id": 70,
+    "question": "Who was US president before Donald Trump?",
+    "mentions": [
+      {
+        "string": "Donald Trump",
+        "entity": "Q22686"
+      },
+      {
+        "string": "US president",
+        "entity": "Q11696"
+      },
+      {
+        "string": "before",
+        "property": "P1365"
+      }
+    ]
+  },
+  {
+    "q_id": 72,
+    "question": "Which films credit Spielberg solely as a director?",
+    "mentions": [
+      {
+        "string": "director",
+        "property": "P57"
+      },
+      {
+        "string": "Spielberg",
+        "entity": "Q8877"
+      },
+      {
+        "string": "films",
+        "entity": "Q11424",
+        "property": "P31"
+      }
+    ]
+  },
+  {
+    "q_id": 74,
+    "question": "Which country contains the Museum of Innocence?",
+    "mentions": [
+      {
+        "string": "Museum of Innocence",
+        "entity": "Q15961492"
+      },
+      {
+        "string": "country",
+        "property": "P17"
+      }
+    ]
+  },
+  {
+    "q_id": 75,
+    "question": "Which smartphone brands are of Chinese origin?",
+    "mentions": [
+      {
+        "string": "smartphone brands",
+        "property": "P31",
+        "entity": "Q22645"
+      },
+      {
+        "string": "Chinese",
+        "property": "P17",
+        "entity": "Q148"
+      },
+      {
+        "string": "origin",
+        "property": "P176"
+      }
+    ]
+  },
+  {
+    "q_id": 76,
+    "question": "What contraindications are linked with drugs used in asthma treatment?",
+    "mentions": [
+      {
+        "string": "asthma",
+        "entity": "Q35869"
+      },
+      {
+        "string": "treatment",
+        "property": "P2175"
+      },
+      {
+        "string": "contraindications",
+        "property": "P1909"
+      },
+      {
+        "string": "drugs used",
+        "property": "P769"
+      }
+    ]
+  },
+  {
+    "q_id": 77,
+    "question": "Which airlines operate the Boeing 747?",
+    "mentions": [
+      {
+        "string": "airlines",
+        "entity": "Q46970",
+        "property": "P31"
+      },
+      {
+        "string": "Boeing 747",
+        "entity": "Q179"
+      },
+      {
+        "string": "operate",
+        "property": "P121"
+      }
+    ]
+  },
+  {
+    "q_id": 82,
+    "question": "What is the diameter of the Ngorongoro Crater?",
+    "mentions": [
+      {
+        "string": "Ngorongoro Crater",
+        "entity": "Q3002224"
+      },
+      {
+        "string": "diameter",
+        "property": "P2386"
+      }
+    ]
+  },
+  {
+    "q_id": 83,
+    "question": "Which films of Wong Kar Wai feature the cinematography of Christopher Doyle?",
+    "mentions": [
+      {
+        "string": "Wong Kar Wai",
+        "entity": "Q55431"
+      },
+      {
+        "string": "Christopher Doyle",
+        "entity": "Q457890"
+      },
+      {
+        "string": "films of",
+        "property": "P57"
+      },
+      {
+        "string": "cinematography",
+        "property": "P344"
+      },
+      {
+        "string": "films",
+        "property": "P31",
+        "entity": "Q11424"
+      }
+    ]
+  },
+  {
+    "q_id": 84,
+    "question": "When was the American Mathematical Society formed?",
+    "mentions": [
+      {
+        "string": "American Mathematical Society",
+        "entity": "Q465654"
+      },
+      {
+        "string": "formed",
+        "property": "P571"
+      }
+    ]
+  },
+  {
+    "q_id": 89,
+    "question": "Which hanja character has the highest stroke count?",
+    "mentions": [
+      {
+        "string": "hanja character",
+        "entity": "Q17300291",
+        "property": "P31"
+      },
+      {
+        "string": "stroke count",
+        "property": "P5205",
+        "superlative": "max"
+      }
+    ]
+  },
+  {
+    "q_id": 90,
+    "question": "Which African capital is at the highest altitude?",
+    "mentions": [
+      {
+        "string": "capital",
+        "property": "P31",
+        "entity": "Q5119"
+      },
+      {
+        "string": "African",
+        "entity": "Q15",
+        "property": "P30"
+      },
+      {
+        "string": "highest altitude",
+        "property": "P2044",
+        "superlative": "max"
+      }
+    ]
+  },
+  {
+    "q_id": 92,
+    "question": "What are the cultivars of Corylus heterophylla?",
+    "mentions": [
+      {
+        "string": "Corylus heterophylla",
+        "entity": "Q124969"
+      },
+      {
+        "string": "cultivar",
+        "entity": "Q4886",
+        "property": "P105"
+      },
+      {
+        "string": "cultivar",
+        "property": "P171",
+        "inverse": true
+      }
+    ]
+  },
+  {
+    "q_id": 93,
+    "question": "Which Tunisian daily newspapers are published in Arabic?",
+    "mentions": [
+      {
+        "string": "Tunisian",
+        "property": "P291",
+        "entity": "Q948"
+      },
+      {
+        "string": "Tunisian",
+        "property": "P17",
+        "entity": "Q948"
+      },
+      {
+        "string": "daily newspapers",
+        "property": "P31",
+        "entity": "Q1110794"
+      },
+      {
+        "string": "Arabic",
+        "entity": "Q13955"
+      },
+      {
+        "string": "published in",
+        "property": "P407"
+      }
+    ]
+  },
+  {
+    "q_id": 95,
+    "question": "Give me the coordinates of SD 24 Halmahera Barat.",
+    "mentions": [
+      {
+        "string": "SD 24 Halmahera Barat",
+        "entity": "Q124109402"
+      },
+      {
+        "string": "coordinates",
+        "property": "P625"
+      }
+    ]
+  },
+  {
+    "q_id": 96,
+    "question": "Which of the children of Juliane-Maximiliana, Gräfin Coob von Neyding was a Geheimrat?",
+    "mentions": [
+      {
+        "string": "Juliane-Maximiliana, Gräfin Coob von Neyding",
+        "entity": "Q110152103"
+      },
+      {
+        "string": "children of",
+        "property": "P40",
+        "inverse": true
+      },
+      {
+        "string": "Geheimrat",
+        "property": "P39",
+        "entity": "Q11165895"
+      }
+    ]
+  },
+  {
+    "q_id": 97,
+    "question": "How many kilometres long is the Czech road III/2634?",
+    "mentions": [
+      {
+        "string": "Czech road III/2634",
+        "entity": "Q116903316"
+      },
+      {
+        "string": "long",
+        "property": "P2043"
+      }
+    ]
+  },
+  {
+    "q_id": 98,
+    "question": "Which Italian Catholic priest was born in September 1822?",
+    "mentions": [
+      {
+        "string": "Catholic priest",
+        "property": "P106",
+        "entity": "Q1469535"
+      },
+      {
+        "string": "Italian",
+        "entity": "Q38",
+        "property": "P27"
+      },
+      {
+        "string": "born in",
+        "property": "P569"
+      },
+      {
+        "string": "born in",
+        "property": "P19"
+      }
+    ]
+  },
+  {
+    "q_id": 102,
+    "question": "Which music streaming websites are in the top 1000 of Alexa rankings?",
+    "mentions": [
+      {
+        "string": "music streaming websites",
+        "property": "P31",
+        "entity": "Q15590336"
+      },
+      {
+        "string": "Alexa rankings",
+        "property": "P1661"
+      }
+    ]
+  },
+  {
+    "q_id": 103,
+    "question": "Which Canadian islands are uninhabited?",
+    "mentions": [
+      {
+        "string": "Canadian",
+        "entity": "Q16",
+        "property": "P17"
+      },
+      {
+        "string": "islands",
+        "entity": "Q23442",
+        "property": "P31"
+      },
+      {
+        "string": "uninhabited",
+        "property": "P1082",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "q_id": 104,
+    "question": "Who is the chairperson of Plaid Cymru?",
+    "mentions": [
+      {
+        "string": "Plaid Cymru",
+        "entity": "Q10691"
+      },
+      {
+        "string": "chairperson",
+        "property": "P488"
+      }
+    ]
+  },
+  {
+    "q_id": 105,
+    "question": "Which supermarket chains have more than one thousand stores?",
+    "mentions": [
+      {
+        "string": "supermarket chains",
+        "property": "P31",
+        "entity": "Q18043413"
+      },
+      {
+        "string": "stores",
+        "property": "P8368"
+      }
+    ]
+  },
+  {
+    "q_id": 107,
+    "question": "Which Norwegian cliffs are more than 500 meters above sea level?",
+    "mentions": [
+      {
+        "string": "Norwegian",
+        "property": "P17",
+        "entity": "Q20"
+      },
+      {
+        "string": "cliffs",
+        "property": "P31",
+        "entity": "Q107679"
+      },
+      {
+        "string": "above sea level",
+        "property": "P2044"
+      }
+    ]
+  },
+  {
+    "q_id": 108,
+    "question": "What dog breeds have the highest life expectancy?",
+    "mentions": [
+      {
+        "string": "dog breeds",
+        "property": "P31",
+        "entity": "Q39367"
+      },
+      {
+        "string": "highest life expectancy",
+        "property": "P2250",
+        "superlative": "max"
+      }
+    ]
+  },
+  {
+    "q_id": 111,
+    "question": "Is Turkey located on the Dead Sea?",
+    "mentions": [
+      {
+        "string": "located on",
+        "property": "P206"
+      },
+      {
+        "string": "Turkey",
+        "entity": "Q43"
+      },
+      {
+        "string": "Dead Sea",
+        "entity": "Q23883"
+      }
+    ]
+  },
+  {
+    "q_id": 113,
+    "question": "Who was the first overall pick of the 2005 NHL entry draft?",
+    "mentions": [
+      {
+        "string": "2005 NHL entry draft",
+        "entity": "Q127434"
+      },
+      {
+        "string": "first overall pick",
+        "property": "P3831",
+        "entity": "Q43633947"
+      }
+    ]
+  },
+  {
+    "q_id": 114,
+    "question": "Who are the taxon authors of Alxasaurus?",
+    "mentions": [
+      {
+        "string": "Alxasaurus",
+        "entity": "Q311286"
+      },
+      {
+        "string": "taxon authors",
+        "property": "P405"
+      }
+    ]
+  },
+  {
+    "q_id": 115,
+    "question": "What churches are in the Lutheran Diocese of Oulu?",
+    "mentions": [
+      {
+        "string": "churches",
+        "property": "P31",
+        "entity": "Q16970"
+      },
+      {
+        "string": "Lutheran Diocese of Oulu",
+        "entity": "Q873680"
+      },
+      {
+        "string": "Diocese",
+        "property": "P708"
+      }
+    ]
+  },
+  {
+    "q_id": 117,
+    "question": "Which province is Batman the capital of?",
+    "mentions": [
+      {
+        "string": "Batman",
+        "entity": "Q159835"
+      },
+      {
+        "string": "province",
+        "entity": "Q34876",
+        "property": "P31"
+      },
+      {
+        "string": "capital",
+        "property": "P36"
+      },
+      {
+        "string": "capital of",
+        "property": "P1376",
+        "inverse": true
+      }
+    ]
+  },
+  {
+    "q_id": 118,
+    "question": "What is the fruit color of Lasianthus?",
+    "mentions": [
+      {
+        "string": "Lasianthus",
+        "entity": "Q3238493"
+      },
+      {
+        "string": "fruit color",
+        "property": "P11220"
+      }
+    ]
+  },
+  {
+    "q_id": 119,
+    "question": "Who died in the year Bruce Lee died?",
+    "mentions": [
+      {
+        "string": "Bruce Lee",
+        "entity": "Q16397"
+      },
+      {
+        "string": "died",
+        "property": "P570"
+      }
+    ]
+  },
+  {
+    "q_id": 121,
+    "question": "What is the Erdős number of Angela Merkel?",
+    "mentions": [
+      {
+        "string": "Erdős number",
+        "property": "P2021"
+      },
+      {
+        "string": "Angela Merkel",
+        "entity": "Q567"
+      }
+    ]
+  },
+  {
+    "q_id": 124,
+    "question": "Who has an Erdős number equal to the number of ancient world wonders?",
+    "mentions": [
+      {
+        "string": "ancient world wonders",
+        "entity": "Q66108498",
+        "property": "P31"
+      },
+      {
+        "string": "Erdős number",
+        "property": "P2021"
+      }
+    ]
+  },
+  {
+    "q_id": 125,
+    "question": "Which drawings by Fredrik Bødtker are located in Oslo?",
+    "mentions": [
+      {
+        "string": "Fredrik Bødtker",
+        "entity": "Q17119629"
+      },
+      {
+        "string": "by",
+        "property": "P170"
+      },
+      {
+        "string": "located",
+        "property": "P276"
+      },
+      {
+        "string": "Oslo",
+        "entity": "Q585"
+      },
+      {
+        "string": "drawings",
+        "property": "P31",
+        "entity": "Q93184"
+      }
+    ]
+  },
+  {
+    "q_id": 129,
+    "question": "Which German cities are served by rapid transport systems?",
+    "mentions": [
+      {
+        "string": "German",
+        "entity": "Q183",
+        "property": "P17"
+      },
+      {
+        "string": "cities",
+        "entity": "Q515"
+      },
+      {
+        "string": "served by",
+        "property": "P131"
+      },
+      {
+        "string": "rapid transport systems",
+        "entity": "Q5503",
+        "property": "P31"
+      }
+    ]
+  },
+  {
+    "q_id": 130,
+    "question": "Is Panappetty located in Kerala?",
+    "mentions": [
+      {
+        "string": "Panappetty",
+        "entity": "Q101139375"
+      },
+      {
+        "string": "Kerala",
+        "entity": "Q1186"
+      },
+      {
+        "string": "located in",
+        "property": "P131"
+      }
+    ]
+  },
+  {
+    "q_id": 132,
+    "question": "Give me all drainage basins of fountains in Santiago-Pontones?",
+    "mentions": [
+      {
+        "string": "Santiago-Pontones",
+        "entity": "Q1645091"
+      },
+      {
+        "string": "fountains",
+        "property": "P31",
+        "entity": "Q483453"
+      },
+      {
+        "string": "drainage basins",
+        "property": "P4614"
+      },
+      {
+        "string": "in",
+        "property": "P131"
+      }
+    ]
+  },
+  {
+    "q_id": 134,
+    "question": "Which paintings have more than ten creators?",
+    "mentions": [
+      {
+        "string": "paintings",
+        "property": "P31",
+        "entity": "Q3305213"
+      },
+      {
+        "string": "creators",
+        "property": "P170"
+      }
+    ]
+  },
+  {
+    "q_id": 136,
+    "question": "Which Catholic cathedrals in the UK were established before 1841?",
+    "mentions": [
+      {
+        "string": "Catholic cathedrals",
+        "entity": "Q56242215",
+        "property": "P31"
+      },
+      {
+        "string": "UK",
+        "property": "P17",
+        "entity": "Q145"
+      },
+      {
+        "string": "established",
+        "property": "P571"
+      }
+    ]
+  },
+  {
+    "q_id": 140,
+    "question": "How many works composed by Verdi debuted at the Teatro La Fenice?",
+    "mentions": [
+      {
+        "string": "Verdi",
+        "entity": "Q7317"
+      },
+      {
+        "string": "Teatro La Fenice",
+        "entity": "Q223942"
+      },
+      {
+        "string": "debuted",
+        "property": "P4647"
+      },
+      {
+        "string": "composed by",
+        "property": "P86"
+      }
+    ]
+  },
+  {
+    "q_id": 143,
+    "question": "Who was the last surviving World War I veteran?",
+    "mentions": [
+      {
+        "string": "World War I",
+        "entity": "Q361"
+      },
+      {
+        "string": "veteran",
+        "entity": "Q193891",
+        "property": "P31"
+      },
+      {
+        "string": "World War I veteran",
+        "entity": "Q111654903"
+      },
+      {
+        "string": "last surviving",
+        "property": "P570",
+        "superlative": "max"
+      },
+      {
+        "string": "World War I veteran",
+        "property": "P607",
+        "entity": "Q361"
+      },
+      {
+        "string": "War",
+        "entity": "Q198"
+      },
+      {
+        "string": "World War",
+        "entity": "Q103495"
+      }
+    ]
+  },
+  {
+    "q_id": 144,
+    "question": "Which Finnish airlines are now defunct?",
+    "mentions": [
+      {
+        "string": "airlines",
+        "property": "P31",
+        "entity": "Q46970"
+      },
+      {
+        "string": "Finnish",
+        "property": "P17",
+        "entity": "Q33"
+      },
+      {
+        "string": "defunct",
+        "property": "P576",
+        "quantifier": "exists"
+      }
+    ]
+  }
+]

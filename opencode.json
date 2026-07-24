@@ -32,12 +32,6 @@
     "bash": { "*": "allow" },
     "webfetch": "allow",
     "websearch": "allow",
-    "external_directory": {
-      "*": "allow",
-      "~/.config/opencode/**": "allow",
-      "/root/.config/opencode/**": "allow",
-      "/Users/nandana/Documents/src/": "allow"
-    },
     "skill": "allow"
   }
 }
